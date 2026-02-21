@@ -1,1 +1,1 @@
-a simple html lading page for a restaurant.
+a simple web-page lading page for a restaurant.
